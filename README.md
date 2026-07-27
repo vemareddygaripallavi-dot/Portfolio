@@ -1,10 +1,14 @@
 # Portfolio
 Ex01 Portfolio
-Date:
+
+Date:27-07-2026
+
 AIM
+
 To create a Portfolio using HTML and CSS.
 
 ALGORITHM
+
 STEP 1
 Create an HTML file (index.html)
 
@@ -48,6 +52,11 @@ STEP 14
 Upload to GitHub Pages for free hosting.
 
 PROGRAM
+
+
 OUTPUT
+
+
 RESULT
+
 The program for creating Portfolio using HTML and CSS is executed successfully.
